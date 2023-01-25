@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "spotify-redesign",
+    "slug": "spotify-redesign",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
